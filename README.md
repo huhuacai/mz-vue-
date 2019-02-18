@@ -1,29 +1,6 @@
-# mz-vue
+1. 设置 viewport
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+2. reset.css
+?思考你的资源文件，是需要采用 模块的方式去加载，还是老方法去加载
+  模块的方法去加载  - src
+  老方法           - public
